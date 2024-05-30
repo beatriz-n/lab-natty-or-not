@@ -12,7 +12,7 @@ Visitei o Dall.E do openai, no input escrevi da seguinte forma “statue in a su
 
 ## 🚀 Resultados
 Resuldados ->
-
+<img src="https://labs.openai.com/s/abuE0PGdI5bIn0TuSqDT7FzM" alt="Resultado 1" style="width: 100%; max-width: 600px;">
 ![Resultado 1](https://labs.openai.com/s/abuE0PGdI5bIn0TuSqDT7FzM)
 
 ![Resultado 2](https://labs.openai.com/s/v4XSLxUcB1h4Gr3pngdSbI9a)
