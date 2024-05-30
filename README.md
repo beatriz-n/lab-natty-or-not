@@ -1,4 +1,5 @@
-Eu tenho meu veredito! Arte IA é fake natty sim!
+
+**Eu tenho meu veredito! Arte IA é fake natty sim!**
 
 ## 📒 Descrição
 Meu projeto tem como base gerar imagem IA que copia a arte de escultura de Michelangelo
@@ -10,7 +11,11 @@ Dall.E 2
 Visitei o Dall.E do openai, no input escrevi da seguinte forma “statue in a sunny garden michelangelo”
 
 ## 🚀 Resultados
-Resuldados ->(https://labs.openai.com/s/abuE0PGdI5bIn0TuSqDT7FzM)
+Resuldados ->
+
+![Resultado 1](https://labs.openai.com/s/abuE0PGdI5bIn0TuSqDT7FzM)
+
+![Resultado 2](https://labs.openai.com/s/v4XSLxUcB1h4Gr3pngdSbI9a)
 
 ## 💭 Reflexão
 A inteligência artificial captura um aglomerado de informações sobre obras de artistas, fazendo uma grande mistura de desenhos e imagens utilizando "texto-imagens". Isso é semelhante à arte de colagem. Com a rede neural, a IA compreende o pedido do usuário (linguagem natural) e, utilizando uma imensidão de imagens e comparações, chega ao resultado desejado.
