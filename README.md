@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Eu tenho meu veredito! Arte IA é fake natty sim!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu projeto tem como base gerar imagem IA que copia a arte de escultura de Michelangelo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Dall.E 2
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Visitei o Dall.E do openai, no input escrevi da seguinte forma “statue in a sunny garden michelangelo”
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resuldados ->(https://labs.openai.com/s/abuE0PGdI5bIn0TuSqDT7FzM)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+A inteligência artificial captura um aglomerado de informações sobre obras de artistas, fazendo uma grande mistura de desenhos e imagens utilizando "texto-imagens". Isso é semelhante à arte de colagem. Com a rede neural, a IA compreende o pedido do usuário (linguagem natural) e, utilizando uma imensidão de imagens e comparações, chega ao resultado desejado.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+É curioso e também interessante observar a dificuldade das IAs em gerar mãos e fundamentos da arte de forma congruente. A mão é uma estrutura complexa; para um artista, é realmente difícil reproduzi-la, então imagine para as IAs, que precisam de milhares e milhares de dados de mãos nas posições desejadas (o que já é escasso) e compreender a complexidade anatomica e gestos possiveis. É certo que existe uma serie de movimentos que nossa mãos podem fazer! IA apenas copiam nossas criações e não se perguntam, por exemplo, "por que isso está ali?" ou "por que aquilo é dessa forma?".
