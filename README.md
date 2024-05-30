@@ -5,14 +5,18 @@
 Meu projeto tem como base gerar imagem IA que copia a arte de escultura de Michelangelo
 
 ## 🤖 Tecnologias Utilizadas
-Dall.E 2
+Dall.E 2 ->
+
+Tipo de inteligência artificial desenvolvida pela OpenAI, sua especialidade é geração de imagens de acordo com linguagem natural, utiliza rede neural, é treinada com grandes contidades de dados de imagens e suas descrições textuais isso permite que ela entenda o texto descrito e trasforme em imagem.
+
+Curiosidade : O nome "DALL-E" é uma combinação dos artistas surrealistas Salvador Dalí e Eadweard Muybridge.
 
 ## 🧐 Processo de Criação
 Visitei o Dall.E do openai, no input escrevi da seguinte forma “statue in a sunny garden michelangelo”
 
 ## 🚀 Resultados
 Resuldados ->
-<img src="https://labs.openai.com/s/abuE0PGdI5bIn0TuSqDT7FzM" alt="Resultado 1" style="width: 100%; max-width: 600px;">
+
 ![Resultado 1](https://labs.openai.com/s/abuE0PGdI5bIn0TuSqDT7FzM)
 
 ![Resultado 2](https://labs.openai.com/s/v4XSLxUcB1h4Gr3pngdSbI9a)
